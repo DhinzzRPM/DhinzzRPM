@@ -4,7 +4,7 @@
 
 ```bash
 > whoami
-Dhinar - Cybersecurity | Semarang, ID
+Dhinar - Cybersecurity | Karanganyar, ID
 
 > cat /etc/motd
 "Security is not a product, but a process."
@@ -73,8 +73,6 @@ security_tools:
 | **Web Vuln Lab** | Intentionally vulnerable web app for testing | `BurpSuite`, `PHP` |
 | **Password Audit Toolkit** | Enterprise password strength auditing | `John`, `Python` |
 
-> Ganti dengan repo asli kamu nanti ya!
-
 ---
 
 ### 📫 Contact
@@ -90,12 +88,12 @@ security_tools:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhinzzRPM&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhinzzRPM&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhinzzRPM&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
